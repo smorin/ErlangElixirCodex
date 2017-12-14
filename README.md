@@ -3,6 +3,20 @@ List of Erlang and Elixir Resources
 
 # Book and Resource List
 * https://github.com/sger/ElixirBooks
+* https://pragprog.com/titles?f[sort_by]=pubdate&f[category]=elixir&f[skill_level]=All&f[title_contains]=
+
+# Video Courses
+* https://pragmaticstudio.com/elixir
+
+# Elixir News Letters
+* https://elixirdigest.net/
+* https://elixirweekly.net/
+* https://elixirnation.io/references/elixir-radar-weekly-newsletter-on-elixir
+* http://plataformatec.com.br/elixir-radar/
+* http://weeklyelixir.com/
+* https://elixir.libhunt.com/newsletter
+* https://dataelixir.com/
+* 
 
 # Web Framework
 * Phoenix Guides https://hexdocs.pm/phoenix/overview.html
@@ -37,6 +51,9 @@ List of Erlang and Elixir Resources
 
 # Supervisor
 * http://elixir-lang.github.io/getting-started/mix-otp/supervisor-and-application.html
+
+# Application
+* https://code.tutsplus.com/articles/elixir-applications--cms-29598
 
 # Mix Tasks
 
