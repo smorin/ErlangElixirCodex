@@ -51,9 +51,11 @@ List of Erlang and Elixir Resources
 
 # Supervisor
 * http://elixir-lang.github.io/getting-started/mix-otp/supervisor-and-application.html
+* https://code.tutsplus.com/articles/supervisors-in-elixir--cms-29330
 
 # Application
 * https://code.tutsplus.com/articles/elixir-applications--cms-29598
+* 
 
 # Mix Tasks
 
