@@ -48,6 +48,12 @@ List of Erlang and Elixir Resources
 * https://neo4j.com/download-thanks/?edition=community&release=3.3.1&flavour=unix
 * https://neo4j.com/download-thanks-desktop/?edition=desktop&flavour=osx&release=1.0.7
 
+# GraphQL
+* https://github.com/absinthe-graphql/absinthe
+* http://absinthe-graphql.org/
+* 
+* 
+
 # GenStage
 
 # Supervisor
