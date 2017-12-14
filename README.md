@@ -9,6 +9,7 @@ List of Erlang and Elixir Resources
 
 # Libraries Elixir
 * Types of Libraries in Elixir https://www.amberbit.com/blog/2016/5/10/creating-elixir-libraries-as-otp-applications/
+* https://yos.io/2016/04/28/writing-and-publishing-elixir-libraries/
 
 # How to make Elixir Packages
 * https://medium.com/blackode/how-to-write-elixir-packages-and-publish-to-hex-pm-8723038ebe76
@@ -38,3 +39,9 @@ List of Erlang and Elixir Resources
 * http://elixir-lang.github.io/getting-started/mix-otp/supervisor-and-application.html
 
 # Mix Tasks
+
+# Scaling
+* http://phoenixframework.org/blog/the-road-to-2-million-websocket-connections
+
+# Case Studies
+* http://highscalability.com/blog/2014/2/26/the-whatsapp-architecture-facebook-bought-for-19-billion.html
