@@ -7,8 +7,15 @@ List of Erlang and Elixir Resources
 # Web Framework
 * Phoenix Guides https://hexdocs.pm/phoenix/overview.html
 
-# Erlang Resources
+# Elixir Book
+* https://elixirschool.com/en/
+
+# Erlang Book
 * http://learnyousomeerlang.com/content
+
+# Erlang Manual
+* Erlang Kernal Manual http://erlang.org/doc/apps/kernel/index.html
+* OTP Design Principles User's Guide http://erlang.org/doc/design_principles/users_guide.html
 
 # How to make Elixir Packages
 * https://medium.com/blackode/how-to-write-elixir-packages-and-publish-to-hex-pm-8723038ebe76
