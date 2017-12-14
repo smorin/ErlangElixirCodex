@@ -57,6 +57,12 @@ List of Erlang and Elixir Resources
 * https://code.tutsplus.com/articles/elixir-applications--cms-29598
 * 
 
+# Releases
+* https://hexdocs.pm/distillery/getting-started.html
+
+# Umbrella Projects
+* https://hexdocs.pm/distillery/umbrella-projects.html#content
+
 # Mix Tasks
 
 # Scaling
