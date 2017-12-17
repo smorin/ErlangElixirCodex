@@ -21,6 +21,7 @@ List of Erlang and Elixir Resources
 
 # Debugging and Tracing
 * https://zorbash.com/post/debugging-elixir-applications/
+* recon http://ferd.github.io/recon/recon_trace.html
 
 # Web Framework
 * Phoenix Guides https://hexdocs.pm/phoenix/overview.html
