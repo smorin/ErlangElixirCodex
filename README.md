@@ -22,6 +22,7 @@ List of Erlang and Elixir Resources
 # Debugging and Tracing
 * https://zorbash.com/post/debugging-elixir-applications/
 * recon http://ferd.github.io/recon/recon_trace.html
+* https://www.pluralsight.com/guides/erlang/10-essential-erlang-tools-for-erlang-developers
 
 # Web Framework
 * Phoenix Guides https://hexdocs.pm/phoenix/overview.html
@@ -43,6 +44,15 @@ List of Erlang and Elixir Resources
 * Erlang Kernal Manual http://erlang.org/doc/apps/kernel/index.html
 * OTP Design Principles User's Guide http://erlang.org/doc/design_principles/users_guide.html
 * Elixir https://elixir-lang.org/docs.html
+
+# Linting and static analysis
+* http://erlang.org/doc/man/xref.html
+* https://github.com/inaka/elvis
+* http://erlang.org/doc/man/dialyzer.html
+* most popular linter https://github.com/rrrene/credo
+* https://github.com/lpil/dogma
+* http://www.thegreatcodeadventure.com/elixir-linter-building-an-otp-elixir-code-quality-engine-with-credo/
+* http://trivelop.de/2015/11/26/comparison-dogma-credo/
 
 # Authentication and JSON Web Tokens
 * https://www.mitchellhanberg.com/post/2017/11/28/implementing-api-authentication-with-guardian/
