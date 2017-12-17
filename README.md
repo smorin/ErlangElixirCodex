@@ -19,6 +19,9 @@ List of Erlang and Elixir Resources
 * https://dataelixir.com/
 * 
 
+# Debugging and Tracing
+* https://zorbash.com/post/debugging-elixir-applications/
+
 # Web Framework
 * Phoenix Guides https://hexdocs.pm/phoenix/overview.html
 
