@@ -19,6 +19,10 @@ List of Erlang and Elixir Resources
 * https://dataelixir.com/
 * 
 
+# Swagger
+* https://medium.com/everydayhero-engineering/create-an-elixir-phoenix-api-part-1-initial-barebones-setup-7c840a6c4c5c
+* https://medium.com/everydayhero-engineering/create-an-elixir-phoenix-api-part-2-generate-an-api-swagger-specification-a931536f4c8d
+
 # Debugging and Tracing
 * https://zorbash.com/post/debugging-elixir-applications/
 * recon http://ferd.github.io/recon/recon_trace.html
