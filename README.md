@@ -16,8 +16,6 @@ List of Erlang and Elixir Resources
 * http://plataformatec.com.br/elixir-radar/
 * http://weeklyelixir.com/
 * https://elixir.libhunt.com/newsletter
-* https://dataelixir.com/
-* 
 
 # Swagger
 * https://medium.com/everydayhero-engineering/create-an-elixir-phoenix-api-part-1-initial-barebones-setup-7c840a6c4c5c
