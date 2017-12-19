@@ -98,3 +98,10 @@ List of Erlang and Elixir Resources
 # Case Studies
 * http://highscalability.com/blog/2014/2/26/the-whatsapp-architecture-facebook-bought-for-19-billion.html
 * http://www.aosabook.org/en/riak.html
+
+
+# Logging
+* https://github.com/erlang-lager/lager
+
+# Metrics
+* https://github.com/boundary/folsom
