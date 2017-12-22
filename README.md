@@ -105,3 +105,6 @@ List of Erlang and Elixir Resources
 
 # Metrics
 * https://github.com/boundary/folsom
+
+# Http and Websocket Client
+* https://github.com/ninenines/gun
