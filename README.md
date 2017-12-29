@@ -108,3 +108,11 @@ List of Erlang and Elixir Resources
 
 # Http and Websocket Client
 * https://github.com/ninenines/gun
+
+# Good Sinatra/Flask like model?
+* https://github.com/ruby-grape/grape
+* https://maru.readme.io/docs/work-with-phoenix-1
+
+# OS Processes
+* https://github.com/saleyn/erlexec
+* https://github.com/alco/porcelain
