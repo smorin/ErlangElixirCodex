@@ -116,3 +116,6 @@ List of Erlang and Elixir Resources
 # OS Processes
 * https://github.com/saleyn/erlexec
 * https://github.com/alco/porcelain
+
+# Process Monitoring
+* app to add to your processes including phoenix web console https://github.com/shinyscorpion/wobserver
