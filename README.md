@@ -4,6 +4,7 @@ List of Erlang and Elixir Resources
 # Book and Resource List
 * https://github.com/sger/ElixirBooks
 * https://pragprog.com/titles?f[sort_by]=pubdate&f[category]=elixir&f[skill_level]=All&f[title_contains]=
+* Beam Book https://github.com/happi/theBeamBook/blob/master/README.md
 
 # Video Courses
 * https://pragmaticstudio.com/elixir
@@ -119,3 +120,8 @@ List of Erlang and Elixir Resources
 
 # Process Monitoring
 * app to add to your processes including phoenix web console https://github.com/shinyscorpion/wobserver
+
+
+# Metrics and Stats
+* Histogram Implementation https://github.com/HdrHistogram/hdr_histogram_erl
+* 
