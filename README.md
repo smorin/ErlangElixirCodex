@@ -6,6 +6,24 @@ List of Erlang and Elixir Resources
 * https://pragprog.com/titles?f[sort_by]=pubdate&f[category]=elixir&f[skill_level]=All&f[title_contains]=
 * Beam Book https://github.com/happi/theBeamBook/blob/master/README.md
 
+# Major Elixir Projects
+* https://github.com/elixir-lang/elixir
+* https://github.com/phoenixframework/phoenix
+* https://github.com/nerves-project/nerves
+* https://github.com/absinthe-graphql
+
+# Community Members
+* Brujo Benavides https://github.com/elbrujohalcon
+* Jose Valim https://github.com/josevalim
+* Aleksei Magusevhttps://github.com/lexmag
+* Chris Mccord https://github.com/chrismccord
+* Justin Schneck https://github.com/mobileoverlord
+* Michał Piotrowski https://github.com/michalwski
+* Francesco Cesarini https://github.com/francescoc
+* Ben Wilson https://github.com/benwilson512
+
+
+
 # Video Courses
 * https://pragmaticstudio.com/elixir
 * https://www.udemy.com/the-complete-elixir-and-phoenix-bootcamp-and-tutorial/learn/v4/content
