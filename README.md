@@ -12,10 +12,10 @@ List of Erlang and Elixir Resources
 * https://github.com/nerves-project/nerves
 * https://github.com/absinthe-graphql
 
-# Community Members
+# Major Community Members
 * Brujo Benavides https://github.com/elbrujohalcon
 * Jose Valim https://github.com/josevalim
-* Aleksei Magusevhttps://github.com/lexmag
+* Aleksei Magusev https://github.com/lexmag
 * Chris Mccord https://github.com/chrismccord
 * Justin Schneck https://github.com/mobileoverlord
 * Michał Piotrowski https://github.com/michalwski
