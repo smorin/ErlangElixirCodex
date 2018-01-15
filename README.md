@@ -22,6 +22,7 @@ List of Erlang and Elixir Resources
 * Francesco Cesarini https://github.com/francescoc
 * Ben Wilson https://github.com/benwilson512
 * Manuel Gomez https://github.com/mergoc
+* Bruce Williams https://github.com/bruce
 
 
 
