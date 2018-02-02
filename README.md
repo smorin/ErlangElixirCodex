@@ -30,6 +30,9 @@ List of Erlang and Elixir Resources
 * https://pragmaticstudio.com/elixir
 * https://www.udemy.com/the-complete-elixir-and-phoenix-bootcamp-and-tutorial/learn/v4/content
 
+# Tutorials
+* https://medium.com/quick-code/the-best-tutorials-to-learn-elixir-for-beginners-3d805ebfe5d3
+
 # Elixir News Letters
 * https://elixirdigest.net/
 * https://elixirweekly.net/
