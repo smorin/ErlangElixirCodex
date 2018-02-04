@@ -5,6 +5,8 @@ List of Erlang and Elixir Resources
 * https://github.com/sger/ElixirBooks
 * https://pragprog.com/titles?f[sort_by]=pubdate&f[category]=elixir&f[skill_level]=All&f[title_contains]=
 * Beam Book https://github.com/happi/theBeamBook/blob/master/README.md
+* video course http://alchemist.camp/
+* video course https://codestool.coding-gnome.com/courses/elixir-for-programmers
 
 # Major Elixir Projects
 * https://github.com/elixir-lang/elixir
