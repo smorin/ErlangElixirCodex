@@ -150,3 +150,6 @@ List of Erlang and Elixir Resources
 # Metrics and Stats
 * Histogram Implementation https://github.com/HdrHistogram/hdr_histogram_erl
 * https://hackernoon.com/a-tour-of-elixir-performance-monitoring-tools-aac2df726e8c
+
+# HTTP/2
+* https://chase.pursu.es/http-2-today-with-phoenix.html?utm_source=newsletter_mailer&utm_medium=email&utm_campaign=weekly
