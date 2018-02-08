@@ -26,6 +26,9 @@ List of Erlang and Elixir Resources
 * Manuel Gomez https://github.com/mergoc
 * Bruce Williams https://github.com/bruce
 
+# Syntax Highlighting Vim
+* Install this first https://github.com/tpope/vim-pathogen
+* Install this second https://github.com/elixir-editors/vim-elixir
 
 
 # Video Courses
