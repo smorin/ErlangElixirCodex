@@ -156,3 +156,10 @@ List of Erlang and Elixir Resources
 
 # HTTP/2
 * https://chase.pursu.es/http-2-today-with-phoenix.html?utm_source=newsletter_mailer&utm_medium=email&utm_campaign=weekly
+
+
+# Json Schema
+* https://github.com/jonasschmidt/ex_json_schema
+
+# Json implementation
+* https://github.com/michalmuskala/jason
