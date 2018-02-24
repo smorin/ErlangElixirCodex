@@ -163,3 +163,13 @@ List of Erlang and Elixir Resources
 
 # Json implementation
 * https://github.com/michalmuskala/jason
+
+# Riak Core
+* https://github.com/basho/riak_core
+* https://marianoguerra.github.io/little-riak-core-book/
+* https://github.com/Kyorai/riak_core
+* https://vimeo.com/18758206
+* https://vimeo.com/21772889
+* https://www.slideshare.net/argv0/riak-coredevnation
+* http://basho.com/posts/technical/where-to-start-with-riak-core/
+* https://github.com/basho/riak_core/wiki
