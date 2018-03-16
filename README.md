@@ -16,6 +16,8 @@ List of Erlang and Elixir Resources
 * https://github.com/nerves-project/nerves
 * https://github.com/absinthe-graphql
 
+# Frameworks
+
 # Major Community Members
 * Brujo Benavides https://github.com/elbrujohalcon
 * Jose Valim https://github.com/josevalim
@@ -27,6 +29,7 @@ List of Erlang and Elixir Resources
 * Ben Wilson https://github.com/benwilson512
 * Manuel Gomez https://github.com/mergoc
 * Bruce Williams https://github.com/bruce
+* Fred Hebert https://github.com/ferd
 
 # Syntax Highlighting Vim
 * Install this first https://github.com/tpope/vim-pathogen
@@ -108,6 +111,15 @@ List of Erlang and Elixir Resources
 * http://absinthe-graphql.org/
 * 
 * 
+
+# Frameworks
+* http://phoenixframework.org/ https://github.com/phoenixframework/phoenix
+* Embedded system https://github.com/nerves-project/nerves https://nerves-project.org/
+* Bot framework https://github.com/hedwig-im/hedwig https://hexdocs.pm/hedwig/readme.html
+* web appliation adapter plug https://github.com/elixir-plug/plug
+* micro framework https://github.com/hexedpackets/trot
+* dashboard https://kitto.io/dashboards/sample https://github.com/kittoframework/kitto
+* cli framework https://github.com/BennyHallett/anubis
 
 # GenStage
 
