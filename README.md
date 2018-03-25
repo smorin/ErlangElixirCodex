@@ -16,6 +16,11 @@ List of Erlang and Elixir Resources
 * https://github.com/nerves-project/nerves
 * https://github.com/absinthe-graphql
 
+# Resource List
+* https://elixir.libhunt.com/
+* https://github.com/h4cc/awesome-elixir
+* https://github.com/uhub/awesome-erlang
+
 # Frameworks
 
 # Major Community Members
