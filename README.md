@@ -10,6 +10,9 @@ List of Erlang and Elixir Resources
 * https://pragmaticstudio.com/unpacked-bingo
 * https://codestool.coding-gnome.com/users/sign_in
 
+# Elixir Podcast
+* http://elixiroutlaws.com/1
+
 # Major Elixir Projects
 * https://github.com/elixir-lang/elixir
 * https://github.com/phoenixframework/phoenix
