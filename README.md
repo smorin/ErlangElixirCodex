@@ -21,6 +21,9 @@ List of Erlang and Elixir Resources
 * https://github.com/h4cc/awesome-elixir
 * https://github.com/uhub/awesome-erlang
 
+# Erlang Blog
+* http://blog.erlang.org/
+
 # Frameworks
 
 # Major Community Members
@@ -35,6 +38,7 @@ List of Erlang and Elixir Resources
 * Manuel Gomez https://github.com/mergoc
 * Bruce Williams https://github.com/bruce
 * Fred Hebert https://github.com/ferd
+* Chandrashekhar Mullaparthi https://github.com/cmullaparthi
 
 # Syntax Highlighting Vim
 * Install this first https://github.com/tpope/vim-pathogen
