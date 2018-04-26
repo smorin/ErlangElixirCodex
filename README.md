@@ -203,3 +203,6 @@ List of Erlang and Elixir Resources
 * https://www.slideshare.net/argv0/riak-coredevnation
 * http://basho.com/posts/technical/where-to-start-with-riak-core/
 * https://github.com/basho/riak_core/wiki
+
+# Articles
+* Logging https://www.verypossible.com/blog/thoughtful-logging-in-elixir-a-phoenix-story
