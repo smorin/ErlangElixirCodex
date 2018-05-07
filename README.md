@@ -46,6 +46,7 @@ List of Erlang and Elixir Resources
 # Syntax Highlighting Vim
 * Install this first https://github.com/tpope/vim-pathogen
 * Install this second https://github.com/elixir-editors/vim-elixir
+* https://github.com/slashmili/alchemist.vim
 
 
 # Video Courses
