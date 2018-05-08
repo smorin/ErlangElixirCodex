@@ -1,6 +1,9 @@
 # ErlangElixirCodex
 List of Erlang and Elixir Resources
 
+# Elixir Cheatsheet
+* https://devhints.io/elixir
+
 # Book and Resource List
 * https://github.com/sger/ElixirBooks
 * https://pragprog.com/titles?f[sort_by]=pubdate&f[category]=elixir&f[skill_level]=All&f[title_contains]=
