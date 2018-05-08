@@ -31,6 +31,7 @@ List of Erlang and Elixir Resources
 * http://erlang.org/documentation/doc-10.0-rc1/lib/kernel-6.0/doc/html/logger_chapter.html#protecting-the-handler-from-overload
 * https://docs.datadoghq.com/logs/log_collection/
 * https://docs.datadoghq.com/logs/
+* https://www.verypossible.com/blog/thoughtful-logging-in-elixir-a-phoenix-story
 
 # Frameworks
 
