@@ -16,6 +16,9 @@ List of Erlang and Elixir Resources
 # Elixir Podcast
 * http://elixiroutlaws.com/1
 
+# Ecto Queries Reference
+* https://elixirnation.io/references/ecto-query-examples
+
 # Major Elixir Projects
 * https://github.com/elixir-lang/elixir
 * https://github.com/phoenixframework/phoenix
