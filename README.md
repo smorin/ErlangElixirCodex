@@ -12,6 +12,7 @@ List of Erlang and Elixir Resources
 * video course https://codestool.coding-gnome.com/courses/elixir-for-programmers
 * https://pragmaticstudio.com/unpacked-bingo
 * https://codestool.coding-gnome.com/users/sign_in
+* https://alchemist.camp/
 
 # Elixir Podcast
 * http://elixiroutlaws.com/1
