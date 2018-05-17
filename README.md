@@ -17,6 +17,9 @@ List of Erlang and Elixir Resources
 # Elixir Podcast
 * http://elixiroutlaws.com/1
 
+# Elixir Bridget Volunteering
+* https://www.bridgetroll.org/
+
 # Ecto Queries Reference
 * https://elixirnation.io/references/ecto-query-examples
 
@@ -39,6 +42,8 @@ List of Erlang and Elixir Resources
 * https://docs.datadoghq.com/logs/log_collection/
 * https://docs.datadoghq.com/logs/
 * https://www.verypossible.com/blog/thoughtful-logging-in-elixir-a-phoenix-story
+* https://timber.io/blog/elixir-logger-and-the-power-of-metadata/
+* https://til.hashrocket.com/posts/743abf738e-logging-to-a-file-in-elixir-test-environment
 
 # Frameworks
 
