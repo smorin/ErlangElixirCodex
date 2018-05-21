@@ -228,3 +228,8 @@ List of Erlang and Elixir Resources
 
 # Articles
 * Logging https://www.verypossible.com/blog/thoughtful-logging-in-elixir-a-phoenix-story
+* http://blog.erlang.org/My-OTP-21-Highlights/
+* http://whatdidilearn.info/2018/05/20/how-to-use-webpack-and-react-with-phoenix-1-3.html
+* https://stackoverflow.com/questions/33194974/how-to-render-a-transparent-gif-pixel-in-phoenix
+* https://ferd.ca/the-zen-of-erlang.html
+* https://pragdave.me/blog/2017/07/13/decoupling-interface-and-implementation-in-elixir.html
