@@ -29,6 +29,9 @@ List of Erlang and Elixir Resources
 * https://github.com/nerves-project/nerves
 * https://github.com/absinthe-graphql
 
+# Docker Releases
+* https://cultivatehq.com/posts/elixir-distillery-umbrella-docker/
+
 # Resource List
 * https://elixir.libhunt.com/
 * https://github.com/h4cc/awesome-elixir
