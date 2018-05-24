@@ -128,6 +128,9 @@ List of Erlang and Elixir Resources
 * http://www.thegreatcodeadventure.com/elixir-linter-building-an-otp-elixir-code-quality-engine-with-credo/
 * http://trivelop.de/2015/11/26/comparison-dogma-credo/
 
+# Configuration
+* Consul library https://github.com/undeadlabs/discovery
+
 # Performance Profiling
 * http://iacobson.net/performance-visualization-in-elixir/
 * https://github.com/proger/eflame
