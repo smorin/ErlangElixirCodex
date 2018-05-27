@@ -242,3 +242,4 @@ List of Erlang and Elixir Resources
 * https://blog.oestrich.org/2018/05/going-multi-node/
 * https://medium.com/appunite-edu-collection/on-guarantees-of-phoenix-presence-a4a23c24667f
 * https://zorbash.com/post/debugging-elixir-applications/
+* https://dockyard.com/blog/2016/08/05/understand-capture-operator-in-elixir
