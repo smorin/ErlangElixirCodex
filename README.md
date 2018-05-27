@@ -236,3 +236,8 @@ List of Erlang and Elixir Resources
 * https://stackoverflow.com/questions/33194974/how-to-render-a-transparent-gif-pixel-in-phoenix
 * https://ferd.ca/the-zen-of-erlang.html
 * https://pragdave.me/blog/2017/07/13/decoupling-interface-and-implementation-in-elixir.html
+* https://nearsoft.com/blog/putting-it-all-to-work-elixir-poolboy-mogrify-andreamosaic/
+* https://www.cogini.com/blog/best-practices-for-deploying-elixir-apps/
+* https://medium.com/@leandrocesquini/elixir-quick-reference-for-debugging-techniques-8dad3920ab93
+* https://blog.oestrich.org/2018/05/going-multi-node/
+* https://medium.com/appunite-edu-collection/on-guarantees-of-phoenix-presence-a4a23c24667f
