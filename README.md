@@ -241,3 +241,4 @@ List of Erlang and Elixir Resources
 * https://medium.com/@leandrocesquini/elixir-quick-reference-for-debugging-techniques-8dad3920ab93
 * https://blog.oestrich.org/2018/05/going-multi-node/
 * https://medium.com/appunite-edu-collection/on-guarantees-of-phoenix-presence-a4a23c24667f
+* https://zorbash.com/post/debugging-elixir-applications/
