@@ -146,8 +146,9 @@ List of Erlang and Elixir Resources
 # GraphQL
 * https://github.com/absinthe-graphql/absinthe
 * http://absinthe-graphql.org/
-* 
-* 
+
+# Error
+* https://code.tutsplus.com/articles/how-to-handle-exceptions-in-elixir--cms-28634
 
 # Frameworks
 * http://phoenixframework.org/ https://github.com/phoenixframework/phoenix
