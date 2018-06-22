@@ -206,6 +206,9 @@ List of Erlang and Elixir Resources
 * app to add to your processes including phoenix web console https://github.com/shinyscorpion/wobserver
 
 
+# Fast no copy globals
+* https://github.com/discordapp/fastglobal
+
 # Metrics and Stats
 * Histogram Implementation https://github.com/HdrHistogram/hdr_histogram_erl
 * https://hackernoon.com/a-tour-of-elixir-performance-monitoring-tools-aac2df726e8c
