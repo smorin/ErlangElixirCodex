@@ -151,6 +151,9 @@ List of Erlang and Elixir Resources
 * https://github.com/absinthe-graphql/absinthe
 * http://absinthe-graphql.org/
 
+# SQL
+* SQL from Elixir https://www.amberbit.com/blog/2018/6/12/executing_raw_sql_queries_in_elixir/?utm_campaign=elixir_radar_146&utm_medium=email&utm_source=RD+Station
+
 # Error
 * https://code.tutsplus.com/articles/how-to-handle-exceptions-in-elixir--cms-28634
 
