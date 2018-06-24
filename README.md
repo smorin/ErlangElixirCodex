@@ -63,6 +63,7 @@ List of Erlang and Elixir Resources
 * Bruce Williams https://github.com/bruce
 * Fred Hebert https://github.com/ferd
 * Chandrashekhar Mullaparthi https://github.com/cmullaparthi
+* Michal Muskala https://github.com/michalmuskala https://michal.muskala.eu/
 
 # Syntax Highlighting Vim
 * Install this first https://github.com/tpope/vim-pathogen
@@ -100,6 +101,9 @@ List of Erlang and Elixir Resources
 
 # Web Framework
 * Phoenix Guides https://hexdocs.pm/phoenix/overview.html
+
+# Publishing Hex Packages
+* http://whatdidilearn.info/2018/06/17/publishing-elixir-packages-to-hex.html
 
 # Libraries Elixir
 * Types of Libraries in Elixir https://www.amberbit.com/blog/2016/5/10/creating-elixir-libraries-as-otp-applications/
