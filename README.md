@@ -99,6 +99,9 @@ List of Erlang and Elixir Resources
 * http://erlang.org/doc/apps/runtime_tools/LTTng.html
 * http://erlang.org/doc/apps/runtime_tools/DTRACE.html
 
+# IEX Open
+* https://dockyard.com/blog/2017/08/24/elixir-open-command-with-terminal-emacs
+
 # Web Framework
 * Phoenix Guides https://hexdocs.pm/phoenix/overview.html
 
