@@ -185,8 +185,12 @@ List of Erlang and Elixir Resources
 * https://code.tutsplus.com/articles/elixir-applications--cms-29598
 * 
 
+# Dependency Injection
+* https://blog.carbonfive.com/2018/03/19/lightweight-dependency-injection-in-elixir-without-the-tears/
+
 # Releases
 * https://hexdocs.pm/distillery/getting-started.html
+* walk through https://hackernoon.com/mastering-elixir-releases-with-distillery-a-pretty-complete-guide-497546f298bc
 
 # Umbrella Projects
 * https://hexdocs.pm/distillery/umbrella-projects.html#content
@@ -220,6 +224,8 @@ List of Erlang and Elixir Resources
 
 # Process Monitoring
 * app to add to your processes including phoenix web console https://github.com/shinyscorpion/wobserver
+* how process exits work https://crypt.codemancers.com/posts/2016-01-24-understanding-exit-signals-in-erlang-slash-elixir/
+* 
 
 
 # Fast no copy globals
