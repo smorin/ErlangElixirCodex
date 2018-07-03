@@ -99,6 +99,12 @@ List of Erlang and Elixir Resources
 * http://erlang.org/doc/apps/runtime_tools/LTTng.html
 * http://erlang.org/doc/apps/runtime_tools/DTRACE.html
 
+
+# Performance and Optimization
+* example optimizations gist https://gist.github.com/maierru/d4cb7d0124d2eece80bd07b7a51ad31b
+* http://learningelixir.joekain.com/optmizing-elixir/
+* https://medium.com/@ron.arts/optimizing-elixir-phoenix-performance-a50f7c92b9e4
+
 # IEX Open
 * https://dockyard.com/blog/2017/08/24/elixir-open-command-with-terminal-emacs
 
