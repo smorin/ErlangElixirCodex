@@ -47,6 +47,7 @@ List of Erlang and Elixir Resources
 * https://www.verypossible.com/blog/thoughtful-logging-in-elixir-a-phoenix-story
 * https://timber.io/blog/elixir-logger-and-the-power-of-metadata/
 * https://til.hashrocket.com/posts/743abf738e-logging-to-a-file-in-elixir-test-environment
+* https://github.com/onkel-dirtus/logger_file_backend
 
 # Frameworks
 
