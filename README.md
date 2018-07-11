@@ -14,6 +14,22 @@ List of Erlang and Elixir Resources
 * https://codestool.coding-gnome.com/users/sign_in
 * https://alchemist.camp/
 
+# Macros
+* https://www.theerlangelist.com/article/macros_1
+* http://www.theerlangelist.com/article/macros_2
+* http://www.theerlangelist.com/article/macros_3
+* http://www.theerlangelist.com/article/macros_4
+* http://www.theerlangelist.com/article/macros_5
+* http://www.theerlangelist.com/article/macros_6
+* https://github.com/h4cc/awesome-elixir/blob/master/README.md#macros
+* https://gist.github.com/jessejanderson/2534e42b80711d6cdbbaf3800c317767
+
+# Macros Videos
+* Best intro: https://www.youtube.com/watch?v=Bo48sQDb-hk&list=PLAyJSrnNA9zEeAGt4dImWzqX_z-3mXDVp&index=5&t=287s
+* https://www.youtube.com/watch?v=mkoYqXdXl5Y&list=PLAyJSrnNA9zEeAGt4dImWzqX_z-3mXDVp&index=10&t=0s
+* https://www.youtube.com/watch?v=p8MGNw045AE&list=PLAyJSrnNA9zEeAGt4dImWzqX_z-3mXDVp&index=3&t=0s
+
+
 # Elixir Podcast
 * http://elixiroutlaws.com/1
 
