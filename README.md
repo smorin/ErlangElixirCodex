@@ -1,6 +1,10 @@
 # ErlangElixirCodex
 List of Erlang and Elixir Resources
 
+# Contributing
+* http://www.sihui.io/how-to-contribute-to-elixir/
+
+
 # Elixir Cheatsheet
 * https://devhints.io/elixir
 
@@ -176,6 +180,7 @@ List of Erlang and Elixir Resources
 # GraphQL
 * https://github.com/absinthe-graphql/absinthe
 * http://absinthe-graphql.org/
+* https://timber.io/blog/a-gentle-introduction-to-graphql-with-elixir-and-phoenix/
 
 # SQL
 * SQL from Elixir https://www.amberbit.com/blog/2018/6/12/executing_raw_sql_queries_in_elixir/?utm_campaign=elixir_radar_146&utm_medium=email&utm_source=RD+Station
