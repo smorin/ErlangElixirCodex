@@ -280,6 +280,7 @@ List of Erlang and Elixir Resources
 
 # Articles
 * Logging https://www.verypossible.com/blog/thoughtful-logging-in-elixir-a-phoenix-story
+* fast logging https://timanovsky.wordpress.com/2009/02/04/correct-implementation-of-fast-server-logging-in-erlang/
 * http://blog.erlang.org/My-OTP-21-Highlights/
 * http://whatdidilearn.info/2018/05/20/how-to-use-webpack-and-react-with-phoenix-1-3.html
 * https://stackoverflow.com/questions/33194974/how-to-render-a-transparent-gif-pixel-in-phoenix
