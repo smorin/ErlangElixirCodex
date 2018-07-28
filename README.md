@@ -48,7 +48,7 @@ List of Erlang and Elixir Resources
 * https://github.com/phoenixframework/phoenix
 * https://github.com/nerves-project/nerves
 * https://github.com/absinthe-graphql
-* https://www.membraneframework.org/ media framework
+* https://www.membraneframework.org/ media streaming framework
 
 # Docker Releases
 * https://cultivatehq.com/posts/elixir-distillery-umbrella-docker/
