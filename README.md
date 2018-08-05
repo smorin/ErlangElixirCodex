@@ -86,6 +86,7 @@ List of Erlang and Elixir Resources
 * Fred Hebert https://github.com/ferd
 * Chandrashekhar Mullaparthi https://github.com/cmullaparthi
 * Michal Muskala https://github.com/michalmuskala https://michal.muskala.eu/
+* Miriam Pena https://github.com/miriampena
 
 # Syntax Highlighting Vim
 * Install this first https://github.com/tpope/vim-pathogen
@@ -132,6 +133,7 @@ List of Erlang and Elixir Resources
 * https://github.com/devonestes/fast-elixir/blob/master/README.md
 * https://www.bignerdranch.com/blog/elixir-and-io-lists-part-1-building-output-efficiently/
 * https://elixirforum.com/t/help-with-performance-file-io/802
+* http://engineering.teacherspayteachers.com/2017/08/02/reducing-elixir-backend-time-from-120ms-to-20ms-with-parallelization.html
 
 # IEX Open
 * https://dockyard.com/blog/2017/08/24/elixir-open-command-with-terminal-emacs
