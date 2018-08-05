@@ -126,6 +126,12 @@ List of Erlang and Elixir Resources
 * example optimizations gist https://gist.github.com/maierru/d4cb7d0124d2eece80bd07b7a51ad31b
 * http://learningelixir.joekain.com/optmizing-elixir/
 * https://medium.com/@ron.arts/optimizing-elixir-phoenix-performance-a50f7c92b9e4
+* https://www.theerlangelist.com/article/phoenix_latency
+* https://www.verypossible.com/blog/thoughtful-logging-in-elixir-a-phoenix-story
+* http://cloudless.studio/articles/12-elixir-vs-ruby-file-i-o-performance
+* https://github.com/devonestes/fast-elixir/blob/master/README.md
+* https://www.bignerdranch.com/blog/elixir-and-io-lists-part-1-building-output-efficiently/
+* https://elixirforum.com/t/help-with-performance-file-io/802
 
 # IEX Open
 * https://dockyard.com/blog/2017/08/24/elixir-open-command-with-terminal-emacs
