@@ -235,6 +235,8 @@ List of Erlang and Elixir Resources
 * http://highscalability.com/blog/2014/2/26/the-whatsapp-architecture-facebook-bought-for-19-billion.html
 * http://www.aosabook.org/en/riak.html
 
+# Fallback
+* https://swanros.com/2017/03/04/action-fallback-contexts-phoenix1-3-tiny-controllers/
 
 # Logging
 * https://github.com/erlang-lager/lager
