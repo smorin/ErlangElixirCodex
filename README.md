@@ -305,3 +305,4 @@ List of Erlang and Elixir Resources
 * https://zorbash.com/post/debugging-elixir-applications/
 * https://dockyard.com/blog/2016/08/05/understand-capture-operator-in-elixir
 * https://michal.muskala.eu/2017/07/30/configuring-elixir-libraries.html
+* https://medium.com/coryodaniel/from-erverless-to-elixir-48752db4d7bc Serverless to Elixir
