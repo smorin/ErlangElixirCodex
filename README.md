@@ -306,3 +306,6 @@ List of Erlang and Elixir Resources
 * https://dockyard.com/blog/2016/08/05/understand-capture-operator-in-elixir
 * https://michal.muskala.eu/2017/07/30/configuring-elixir-libraries.html
 * https://medium.com/coryodaniel/from-erverless-to-elixir-48752db4d7bc Serverless to Elixir
+* Tracing to measure garbage collection and memory usage http://devonestes.herokuapp.com/using-erlang-trace-3
+* Building a system with back pressure https://pspdfkit.com/blog/2018/back-pressure-queuing-system-with-sbroker/
+* Better receive loop http://www.petecorey.com/blog/2018/07/23/building-a-better-receive-loop/
