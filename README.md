@@ -121,6 +121,7 @@ List of Erlang and Elixir Resources
 * https://github.com/liveforeverx/exrun
 * http://erlang.org/doc/apps/runtime_tools/LTTng.html
 * http://erlang.org/doc/apps/runtime_tools/DTRACE.html
+* https://pattern-match.com/blog/2018/06/01/erlang-tracing-what-we-can-and-what-we-cannot-trace/
 
 
 # Performance and Optimization
