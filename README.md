@@ -135,6 +135,7 @@ List of Erlang and Elixir Resources
 * https://www.bignerdranch.com/blog/elixir-and-io-lists-part-1-building-output-efficiently/
 * https://elixirforum.com/t/help-with-performance-file-io/802
 * http://engineering.teacherspayteachers.com/2017/08/02/reducing-elixir-backend-time-from-120ms-to-20ms-with-parallelization.html
+* https://elixirforum.com/t/fast-eex-iolist-option-for-eex-engine/16145
 
 # IEX Open
 * https://dockyard.com/blog/2017/08/24/elixir-open-command-with-terminal-emacs
