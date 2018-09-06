@@ -93,6 +93,12 @@ List of Erlang and Elixir Resources
 * Install this second https://github.com/elixir-editors/vim-elixir
 * https://github.com/slashmili/alchemist.vim
 
+# Property Based Testing
+* https://elixir-lang.org/blog/2017/10/31/stream-data-property-based-testing-and-data-generation-for-elixir/
+* https://github.com/whatyouhide/stream_data
+
+# http
+* https://github.com/ericmj/xhttp
 
 # Video Courses
 * https://pragmaticstudio.com/elixir
