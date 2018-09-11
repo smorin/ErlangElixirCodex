@@ -43,6 +43,9 @@ List of Erlang and Elixir Resources
 # Ecto Queries Reference
 * https://elixirnation.io/references/ecto-query-examples
 
+# Patterns
+* Facade Pattern http://www.petecorey.com/blog/2018/09/03/using-facades-to-simplify-elixir-modules/
+
 # Major Elixir Projects
 * https://github.com/elixir-lang/elixir
 * https://github.com/phoenixframework/phoenix
