@@ -201,6 +201,7 @@ List of Erlang and Elixir Resources
 * https://github.com/absinthe-graphql/absinthe
 * http://absinthe-graphql.org/
 * https://timber.io/blog/a-gentle-introduction-to-graphql-with-elixir-and-phoenix/
+* https://velotio.com/blog/2018/9/19/creating-graphql-apis-using-elixir-phoenix-and-absinthe
 
 # SQL
 * SQL from Elixir https://www.amberbit.com/blog/2018/6/12/executing_raw_sql_queries_in_elixir/?utm_campaign=elixir_radar_146&utm_medium=email&utm_source=RD+Station
