@@ -217,6 +217,9 @@ List of Erlang and Elixir Resources
 * dashboard https://kitto.io/dashboards/sample https://github.com/kittoframework/kitto
 * cli framework https://github.com/BennyHallett/anubis
 
+# Minimal Server like Sinatra
+* https://blog.lelonek.me/minimal-elixir-http2-server-64188d0c1f3a
+
 # GenStage
 
 # Supervisor
