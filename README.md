@@ -173,6 +173,9 @@ List of Erlang and Elixir Resources
 * OTP Design Principles User's Guide http://erlang.org/doc/design_principles/users_guide.html
 * Elixir https://elixir-lang.org/docs.html
 
+# Java to Erlang
+* https://appulse.io/2018/09/19/encon-library-basic-concepts-overview.html https://github.com/appulse-projects/encon-java/tree/master/encon
+
 # Linting and static analysis
 * http://erlang.org/doc/man/xref.html
 * https://github.com/inaka/elvis
